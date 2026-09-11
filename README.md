@@ -65,6 +65,15 @@ Exemplo de edição de textura:
 A gravação é experimental e ainda não tem compatibilidade garantida com o
 cliente Android. Mantenha backups e trabalhe somente em cópias.
 
+### Exemplos visuais
+
+O navegador permite explorar modelos por categoria, visualizar a malha em 3D e
+inspecionar as texturas resolvidas:
+
+![Prévia de um modelo 3D](docs/images/model-preview-clean.jpeg)
+
+![Prévia de um edifício com texturas](docs/images/building-preview-clean.jpeg)
+
 ### Exportar um modelo para GLB
 
 ```bash
