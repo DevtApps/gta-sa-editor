@@ -1,0 +1,8 @@
+{
+  "source": "fixture original",
+  "backup": "cópia de validação",
+  "files": 617,
+  "bytes": 5554205868,
+  "file_lists_match": true,
+  "hash_mismatches": []
+}

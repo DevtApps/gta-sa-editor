@@ -1,0 +1,40 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+
+# IDEs, sistema operacional e ferramentas
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Empacotamento, logs e artefatos gerados
+build/
+dist/
+*.egg-info/
+*.log
+*.glb
+*.png
+
+# Arquivos do jogo não devem ser versionados
+*.dff
+*.img
+*.dat
+*.toc
+*.txd
+*.astc_arc

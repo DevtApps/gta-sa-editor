@@ -1,0 +1,444 @@
+{
+  "inventory": [
+    {
+      "path": "data/texdb/cutscene/cutscene.dxt.toc",
+      "textures": 391,
+      "encodings": {
+        "0x83f0": 370,
+        "0x83f3": 21
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/cutscene/cutscene.etc.toc",
+      "textures": 391,
+      "encodings": {
+        "0x8d64": 369,
+        "0x8033": 20,
+        "0x8034": 1,
+        "0x8363": 1
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 6,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8d64": 5,
+        "ValueError: unsupported texture encoding 0x8034": 1
+      }
+    },
+    {
+      "path": "data/texdb/cutscene/cutscene.pvr.toc",
+      "textures": 391,
+      "encodings": {
+        "0x8c01": 369,
+        "0x8c02": 22
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 0,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8c01": 5,
+        "ValueError: unsupported texture encoding 0x8c02": 5
+      }
+    },
+    {
+      "path": "data/texdb/gta3/gta3.dxt.toc",
+      "textures": 10160,
+      "encodings": {
+        "0x83f0": 9185,
+        "0x83f3": 830,
+        "0x8363": 145
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 14,
+      "decode_errors": {
+        "IndexError: index out of range": 1
+      }
+    },
+    {
+      "path": "data/texdb/gta3/gta3.etc.toc",
+      "textures": 10160,
+      "encodings": {
+        "0x8d64": 9184,
+        "0x8033": 740,
+        "0x8034": 88,
+        "0x8363": 146,
+        "0x190a": 2
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 9,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8d64": 5,
+        "ValueError: unsupported texture encoding 0x8034": 5,
+        "ValueError: unsupported texture encoding 0x190a": 2,
+        "IndexError: index out of range": 1
+      }
+    },
+    {
+      "path": "data/texdb/gta3/gta3.pvr.toc",
+      "textures": 10160,
+      "encodings": {
+        "0x8c01": 9184,
+        "0x8c02": 784,
+        "0x8363": 145,
+        "0x190a": 2,
+        "0x8033": 45
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 4,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8c01": 5,
+        "ValueError: unsupported texture encoding 0x8c02": 5,
+        "ValueError: unsupported texture encoding 0x190a": 2,
+        "IndexError: index out of range": 6
+      }
+    },
+    {
+      "path": "data/texdb/gta_int/gta_int.dxt.toc",
+      "textures": 2439,
+      "encodings": {
+        "0x83f3": 2439
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 5,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/gta_int/gta_int.etc.toc",
+      "textures": 2439,
+      "encodings": {
+        "0x8033": 2439
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 4,
+      "decode_errors": {
+        "IndexError: index out of range": 1
+      }
+    },
+    {
+      "path": "data/texdb/gta_int/gta_int.pvr.toc",
+      "textures": 2439,
+      "encodings": {
+        "0x8c02": 2439
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 0,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8c02": 5
+      }
+    },
+    {
+      "path": "data/texdb/gtasa/gtasa.dxt.toc",
+      "textures": 12,
+      "encodings": {
+        "0x83f3": 12
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 5,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/gtasa/gtasa.etc.toc",
+      "textures": 12,
+      "encodings": {
+        "0x8033": 12
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 5,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/gtasa/gtasa.pvr.toc",
+      "textures": 12,
+      "encodings": {
+        "0x8c02": 12
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 0,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8c02": 5
+      }
+    },
+    {
+      "path": "data/texdb/gtasa/gtasa.unc.toc",
+      "textures": 12,
+      "encodings": {
+        "0x8033": 12
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 5,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/menu/menu.dxt.toc",
+      "textures": 43,
+      "encodings": {
+        "0x83f3": 16,
+        "0x83f0": 2,
+        "0x8033": 18,
+        "0x8363": 7
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 12,
+      "decode_errors": {
+        "IndexError: index out of range": 5
+      }
+    },
+    {
+      "path": "data/texdb/menu/menu.etc.toc",
+      "textures": 43,
+      "encodings": {
+        "0x8033": 34,
+        "0x8363": 9
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 7,
+      "decode_errors": {
+        "IndexError: index out of range": 3
+      }
+    },
+    {
+      "path": "data/texdb/menu/menu.pvr.toc",
+      "textures": 43,
+      "encodings": {
+        "0x8033": 34,
+        "0x8363": 9
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 7,
+      "decode_errors": {
+        "IndexError: index out of range": 3
+      }
+    },
+    {
+      "path": "data/texdb/mobile/mobile.dxt.toc",
+      "textures": 198,
+      "encodings": {
+        "0x83f3": 183,
+        "0x83f0": 15
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/mobile/mobile.etc.toc",
+      "textures": 198,
+      "encodings": {
+        "0x8033": 75,
+        "0x8363": 15,
+        "0x83f3": 108
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {
+        "IndexError: index out of range": 5
+      }
+    },
+    {
+      "path": "data/texdb/mobile/mobile.pvr.toc",
+      "textures": 198,
+      "encodings": {
+        "0x8033": 75,
+        "0x8363": 15,
+        "0x83f3": 108
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {
+        "IndexError: index out of range": 5
+      }
+    },
+    {
+      "path": "data/texdb/player/player.pvr.toc",
+      "textures": 347,
+      "encodings": {
+        "0x83f3": 124,
+        "0x83f0": 223
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/playerhi/playerhi.pvr.toc",
+      "textures": 347,
+      "encodings": {
+        "0x83f3": 131,
+        "0x83f0": 216
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/samp/samp.dxt.toc",
+      "textures": 950,
+      "encodings": {
+        "0x83f3": 950
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 5,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/samp/samp.etc.toc",
+      "textures": 950,
+      "encodings": {
+        "0x8033": 945,
+        "0x83f3": 5
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {}
+    },
+    {
+      "path": "data/texdb/samp/samp.pvr.toc",
+      "textures": 950,
+      "encodings": {
+        "0x8c02": 945,
+        "0x83f3": 5
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 5,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8c02": 5
+      }
+    },
+    {
+      "path": "data/texdb/samp/samp.unc.toc",
+      "error": "IndexError: list index out of range"
+    },
+    {
+      "path": "data/texdb/txd/txd.360.toc",
+      "error": "error: unpack_from requires a buffer of at least 7625582 bytes for unpacking 8 bytes at offset 7625574 (actual buffer size is 7625578)"
+    },
+    {
+      "path": "data/texdb/txd/txd.dxt.toc",
+      "textures": 565,
+      "encodings": {
+        "0x83f3": 387,
+        "0x83f0": 177,
+        "0x1401": 1
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 10,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x1401": 1
+      }
+    },
+    {
+      "path": "data/texdb/txd/txd.etc.toc",
+      "textures": 565,
+      "encodings": {
+        "0x8033": 376,
+        "0x8d64": 138,
+        "0x8034": 8,
+        "0x83f3": 3,
+        "0x8363": 9,
+        "0x83f0": 30,
+        "0x1401": 1
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 17,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8d64": 5,
+        "ValueError: unsupported texture encoding 0x8034": 5,
+        "IndexError: index out of range": 1,
+        "ValueError: unsupported texture encoding 0x1401": 1
+      }
+    },
+    {
+      "path": "data/texdb/txd/txd.pvr.toc",
+      "textures": 565,
+      "encodings": {
+        "0x8c02": 239,
+        "0x8c01": 138,
+        "0x83f3": 3,
+        "0x8033": 147,
+        "0x8363": 7,
+        "0x83f0": 30,
+        "0x1401": 1
+      },
+      "hash_mismatches": 0,
+      "decoded_samples": 16,
+      "decode_errors": {
+        "ValueError: unsupported texture encoding 0x8c02": 5,
+        "ValueError: unsupported texture encoding 0x8c01": 5,
+        "IndexError: index out of range": 2,
+        "ValueError: unsupported texture encoding 0x1401": 1
+      }
+    }
+  ],
+  "replacement": {
+    "name": "ahoodfence2",
+    "reopened": true,
+    "changed_blocks": [
+      "ahoodfence2",
+      "barbersflr1_LA"
+    ],
+    "removed_props": [
+      "hassibling",
+      "png"
+    ],
+    "no_mip_before": true,
+    "no_mip_after": true,
+    "original_block_end": 10956,
+    "next_block_offset": 10952,
+    "neighbor_header_before": "d3eaf083",
+    "neighbor_header_after": "00000000",
+    "replacement_pixel": [
+      0,
+      0,
+      255,
+      255
+    ]
+  },
+  "synthetic": {
+    "red": {
+      "input": [
+        255,
+        0,
+        0,
+        255
+      ],
+      "output": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "pass": false
+    },
+    "blue": {
+      "input": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "output": [
+        255,
+        0,
+        0,
+        255
+      ],
+      "pass": false
+    },
+    "alpha": {
+      "input": [
+        255,
+        0,
+        0,
+        85
+      ],
+      "output": [
+        0,
+        0,
+        255,
+        85
+      ],
+      "pass": false
+    }
+  }
+}
